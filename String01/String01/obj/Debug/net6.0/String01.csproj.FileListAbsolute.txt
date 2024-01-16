@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\String01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\String01.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\String01.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\String01.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\bin\Debug\net6.0\String01.exe
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\bin\Debug\net6.0\String01.deps.json
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\bin\Debug\net6.0\String01.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\bin\Debug\net6.0\String01.dll
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\bin\Debug\net6.0\String01.pdb
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\String01.dll
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\refint\String01.dll
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\String01.pdb
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\String01.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\String01\String01\obj\Debug\net6.0\ref\String01.dll
